@@ -2,7 +2,7 @@
 -- by default it's '/home'
 -- but you can change with '/home/MCserver' for example
 
-MainDirectory = '/home/tralalaDev'
+MainDirectory = '/home'
 
 ------------------------------------------------------------------------------------------------------------
 
