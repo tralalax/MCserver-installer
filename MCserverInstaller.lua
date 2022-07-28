@@ -21,7 +21,7 @@ function help() -- function to print the help message
     print("It supports all the different Minecraft server jar, such as forge, vanilla, fabric, spigot... All you need is the link to download your .jar")
     print("")
     print("Version : " .. version)
-    print("Github : ")
+    print("Github : https://github.com/tralalax/MCserver-installer")
     print("Made by tralala")
     print("")
 end
